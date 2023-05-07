@@ -32,7 +32,7 @@ class in     //base class
   fout<<n<<"\t"<<noc<<"\t"<<temp<<"\n";
   n++;
    
-   }while(n<=15);                 //iteration for obtaining value and assigning in file 
+   }while(n<=9);                 //iteration for obtaining value and assigning in file 
   fout.close();                 //closing the file
 
  }
