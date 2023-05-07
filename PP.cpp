@@ -1,3 +1,6 @@
+// You will need to download this file for porper execution of code because this program has somepart of file handling.
+
+
 //noc refers to name of city
 //inp refers to input
 //ro referes to random or unarranged output
